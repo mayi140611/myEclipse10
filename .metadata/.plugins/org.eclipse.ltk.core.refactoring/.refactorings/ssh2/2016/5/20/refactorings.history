@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ssh2/WebRoot/aa&apos; to &apos;DocumentCatalog&apos;" description="Rename resource &apos;aa&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebRoot/aa" name="DocumentCatalog" stamp="1463252769135" updateReferences="true"/>
+</session>

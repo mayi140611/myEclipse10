@@ -1,0 +1,14 @@
+#Sun May 15 03:06:44 CST 2016
+tomcat6Server.ssh2.type=WebDeployment
+tomcat6Server.ssh2.isExploded=true
+tomcat6Server.ssh2.deploymentPath=E\:\\SERVER\\apache-tomcat-6.0.45\\webapps\\ssh2
+tomcat6Server.ssh2.deployIsOverProject=false
+tomcat6Server.ssh2.contextRoot=/ssh2
+tomcat6Server.ssh2.shouldOverwrite=false
+tomcat6Server.ssh2.isDeployed=true
+tomcat6Server.ssh2.noFileCopy=false
+tomcat6Server.ssh2.IEARProjectName=
+eclipse.preferences.version=1
+tomcat6Server.ssh2.shouldBackup=false
+tomcat6Server.ssh2.isUptoDate=true
+tomcat6Server.ssh2.altContextRoot=
